@@ -6,7 +6,10 @@
 
 - 🔭 I’m currently working on SyBotnet
 - 💬 How to reach me seungyup26@gmail.com  
-  
+- ✨ Discord SeungYup26#1404
+- 🏬 My Office SyProgram
+- 🛌 Sleep 9pm ~ 11pm
+
 <br><h1 align="center"> What can a SeungYup do?
 <h1 align="center">
 <img style="margin: auto;" src="https://raw.githubusercontent.com/SeungYup26/SeungYup26/main/Picture/language.png" alt="C, C++, C#, Linux" height="100"/>
