@@ -11,6 +11,4 @@
 <br><h1 align="center"> What can a SeungYup do?
   
 <h1 align="center">
-<img style="margin: auto;" src="https://raw.githubusercontent.com/SeungYup26/SeungYup26/main/Picture/c.png" alt=c width="60" height="60"/>
-<img style="margin: auto;" src="https://raw.githubusercontent.com/SeungYup26/SeungYup26/main/Picture/cpp.png" alt=c++ width="60" height="60"/>
-<img style="margin: auto;" src="https://raw.githubusercontent.com/SeungYup26/SeungYup26/main/Picture/linux.png" alt=linux width="60" height="60"/>
+<img style="margin: auto;" src="https://raw.githubusercontent.com/SeungYup26/SeungYup26/main/Picture/제목%20없는%20디자인.png" alt="C, C++, C#, Linux" />
