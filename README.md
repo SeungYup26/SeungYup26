@@ -4,9 +4,8 @@
 **SeungYup26/SeungYup26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-🔭 I’m currently working on SyBotnet
-
-💬 How to reach me seungyup26@gmail.com
+<h4 align="center">🔭 I’m currently working on SyBotnet
+<h4 align="center">💬 How to reach me seungyup26@gmail.com
 
 <br><h1 align="center"> What can a SeungYup do?
   
