@@ -8,6 +8,7 @@
 
 💬 How to reach me seungyup26@gmail.com
 
-<h1 align="center"> Programming Language:
-
-<h1 align="center"><img style="margin: auto;" src="https://raw.githubusercontent.com/SeungYup26/SeungYup26/main/Picture/c.png" alt=c width="60" height="60"/><img style="margin: auto;" src="https://raw.githubusercontent.com/SeungYup26/SeungYup26/main/Picture/cpp.png" alt=c++ width="60" height="60"/>
+<h1 align="center"> I can ...
+  <pre></pre>
+<img style="margin: auto;" src="https://raw.githubusercontent.com/SeungYup26/SeungYup26/main/Picture/c.png" alt=c width="60" height="60"/>
+<img style="margin: auto;" src="https://raw.githubusercontent.com/SeungYup26/SeungYup26/main/Picture/cpp.png" alt=c++ width="60" height="60"/>
