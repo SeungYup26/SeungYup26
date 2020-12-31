@@ -8,7 +8,7 @@
 
 💬 How to reach me seungyup26@gmail.com
 
-<br><h1 align="center"><h1> I can ...
+<br><h1 align="center"> I can ...
   
-<img style="margin: auto;" src="https://raw.githubusercontent.com/SeungYup26/SeungYup26/main/Picture/c.png" alt=c width="60" height="60"/>
+<h1 align="center"><img style="margin: auto;" src="https://raw.githubusercontent.com/SeungYup26/SeungYup26/main/Picture/c.png" alt=c width="60" height="60"/>
 <img style="margin: auto;" src="https://raw.githubusercontent.com/SeungYup26/SeungYup26/main/Picture/cpp.png" alt=c++ width="60" height="60"/>
