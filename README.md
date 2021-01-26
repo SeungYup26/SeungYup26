@@ -4,7 +4,7 @@
 -->
 <br/>
 
-- 🔭 I’m currently working on SyBotnet
+- 🔭 I’m currently working on SyDosnet Costom Packet
 - 💬 How to reach me seungyup26@gmail.com  
 - ✨ Discord SeungYup26#1404
 - 🏬 My Office SyProgram
