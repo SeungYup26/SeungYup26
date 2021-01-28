@@ -14,8 +14,8 @@
 <h1 align="center">
 <img style="margin: auto;" src="https://raw.githubusercontent.com/SeungYup26/SeungYup26/main/Picture/language.png" alt="C, C++, C#, Linux" height="100"/>
 
-<h2 align="center"> 
-  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeungYup26&count_private=true&show_icons=true" "width="350"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeungYup26&layout=compact" height="170">
+![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungYup26)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KiRist-code&show_icons=true)  
+
 </p>
