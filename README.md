@@ -10,9 +10,10 @@
 - 🏬 My Office SyProgram
 - 🛌 Sleep 9pm ~ 11pm
 
-<br><h1 align="center"> What can a SeungYup do?
-<h1 align="center">
+<br><h1>What can a SeungYup do?</h1>
+  
 <img style="margin: auto;" src="https://raw.githubusercontent.com/SeungYup26/SeungYup26/main/Picture/language.png" alt="C, C++, C#, Linux" height="100"/>
+
 
 ![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungYup26)
 
