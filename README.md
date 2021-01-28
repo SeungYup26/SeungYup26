@@ -16,6 +16,6 @@
 
 ![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungYup26)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KiRist-code&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungYup26&show_icons=true)  
 
 </p>
