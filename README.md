@@ -4,10 +4,8 @@
 -->
 <br/>
 
-- 🔭 I’m currently working on SyDosnet Custom Packet
-- 💬 How to reach me seungyup26@gmail.com  
-- ✨ Discord SeungYup26#1404
-- 🏬 My Office SyProgram
+- 🔭 I’m currently working on SySploit
+- 🏬 My Office SyStudio
 - 🛌 Sleep 9pm ~ 11pm
 
 <br><h1>My Skill</h1>
