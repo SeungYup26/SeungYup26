@@ -4,7 +4,7 @@
 -->
 <br/>
 
-- 🔭 I’m currently working on SySploit
+- 🔭 I’m currently working on SyNet
 - 🏬 My Office SyStudio
 - 🛌 Sleep 9pm ~ 11pm
 
