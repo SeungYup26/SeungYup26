@@ -8,14 +8,10 @@
 - 🏬 My Office SyStudio
 - 🛌 Sleep 9pm ~ 11pm
 
-<br><h1>My Skill</h1>
-  
-<img style="margin: auto;" src="https://raw.githubusercontent.com/SeungYup26/SeungYup26/main/Picture/language.png" alt="C, C++, C#, Linux" height="100"/>
-
-<br><h1>My State</h1>
-
 ![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungYup26)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungYup26&show_icons=true)  
+
+<img style="margin: auto;" src="https://raw.githubusercontent.com/SeungYup26/SeungYup26/main/Picture/language.png" alt="C, C++, C#, Linux" height="100"/>
 
 </p>
