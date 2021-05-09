@@ -4,12 +4,11 @@
 -->
 <br/>
 
-- 🔭 I’m currently working on SyNet
-- 🏬 My Office SyStudio
-- 🛌 Sleep 9pm ~ 11pm
+- 🔭 I’m currently working on MethodNet (C++ Botnet).
+- 🛌 I like sleeping.
+- ✨ My Programming Languages: C, C++, C# and Python, HTML, Javascript, GameMakerLanguage
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungYup26&show_icons=true)
 ![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungYup26)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungYup26&show_icons=true)  
 
 </p>
