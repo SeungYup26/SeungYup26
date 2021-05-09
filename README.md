@@ -12,6 +12,4 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungYup26&show_icons=true)  
 
-<img style="margin: auto;" src="https://raw.githubusercontent.com/SeungYup26/SeungYup26/main/Picture/language.png" alt="C, C++, C#, Linux" height="100"/>
-
 </p>
