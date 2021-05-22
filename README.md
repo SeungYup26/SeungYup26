@@ -4,7 +4,7 @@
 -->
 <br/>
 
-- 🔭 I’m currently working on MethodNet (C++ Botnet).
+- 🔭 I’m currently working on syflood (C++ ddos library).
 - 🛌 I like sleeping.
 - ✨ My Programming Languages: C, C++, C# and Python, HTML, Javascript, GameMakerLanguage
 
