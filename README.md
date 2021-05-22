@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm SeungYup26 !!!</h1>
+<h1 align="center">SeungYup26</h1>
 <!--
 **SeungYup26/SeungYup26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
