@@ -6,4 +6,5 @@
 - 🔭 I’m currently working on SyDosnet (C++ Dos Attack Tool)
 - 🛌 I like sleeping.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=seungyup26&show_icons=true&hide_border=true&custom_title=SeungYup&bg_color=ffffff00&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungyup26&hide_border=true&bg_color=ffffff00&theme=tokyonight)<br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=seungyup26&show_icons=true&hide_border=true&custom_title=SeungYup&bg_color=ffffff00&theme=tokyonight)<br>
