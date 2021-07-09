@@ -19,6 +19,6 @@
   <a href="https://github.com/yblee0816"><img src="https://avatars.githubusercontent.com/u/64089784?v=4" width="50px">
   <a href="https://github.com/jokk6703"><img src="https://avatars.githubusercontent.com/u/38997874?v=4" width="50px">
   <a href="https://github.com/Yellowstrawberrys"><img src="https://avatars.githubusercontent.com/u/77413533?v=4" width="50px">
-  <a href="https://github.com/KiRist-code"><img src="https://avatars.githubusercontent.com/u/37296174?v=4" width="50px"
+  <a href="https://github.com/KiRist-code"><img src="https://avatars.githubusercontent.com/u/37296174?v=4" width="50px">
   <a href="https://github.com/dltlgn071105"><img src="https://avatars.githubusercontent.com/u/79982147?v=4" width="50px">
 </table>
