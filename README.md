@@ -10,7 +10,7 @@
 
 ## Partners
 <table>
-  <a href="https://github.com/SHShop"><img src="https://avatars.githubusercontent.com/u/87181344?s=200&v=4" width="50px">
+  <a href="https://github.com/seungyup-sh"><img src="https://avatars.githubusercontent.com/u/87181344?s=200&v=4" width="50px">
 </table>
   
 ### Friends
