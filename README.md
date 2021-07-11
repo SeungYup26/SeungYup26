@@ -8,7 +8,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=seungyup26&show_icons=true&hide_border=true&custom_title=SeungYup&bg_color=ffffff00&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungyup26&hide_border=true&custom_title=Languages&bg_color=ffffff00&theme=tokyonight)<br>
 
-![Cups](https://github-profile-trophy.vercel.app/?username=seungyup26&theme=chalk&row=2&column=8&hide_border=true&bg_color=ffffff00&&theme=tokyonight)
+![Cups](https://github-profile-trophy.vercel.app/?username=seungyup26&no-frame=true&no-bg=true&column=10&theme=onestar)
 
 ## Friends
 <table>
