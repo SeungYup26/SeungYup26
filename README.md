@@ -5,10 +5,10 @@
 
 <img width="50%" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=seungyup26&show_icons=true&hide_border=true&custom_title=SeungYup&bg_color=ffffff00&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungyup26&hide_border=true&custom_title=Languages&bg_color=ffffff00&theme=tokyonight)<br>
+![Cups](https://github-profile-trophy.vercel.app/?username=seungyup26&no-frame=true&no-bg=true&column=10&theme=onestar) <br>
 
-![Cups](https://github-profile-trophy.vercel.app/?username=seungyup26&no-frame=true&no-bg=true&column=10&theme=onestar)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=seungyup26&show_icons=true&hide_border=true&custom_title=SeungYup&bg_color=ffffff00&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungyup26&hide_border=true&custom_title=Languages&bg_color=ffffff00&theme=tokyonight) <br>
 
 ## Friends
 <table>
