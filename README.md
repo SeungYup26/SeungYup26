@@ -8,12 +8,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungyup26&hide_border=true&custom_title=Languages&bg_color=ffffff00&theme=tokyonight)<br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=seungyup26&show_icons=true&hide_border=true&custom_title=SeungYup&bg_color=ffffff00&theme=tokyonight)<br>
 
-## Partners
-<table>
-  <a href="https://github.com/seungyup-sh"><img src="https://avatars.githubusercontent.com/u/87181344?s=200&v=4" width="50px">
-</table>
-  
-### Friends
+## Friends
 <table>
   <a href="https://github.com/Claude-Agnes17"><img src="https://avatars.githubusercontent.com/u/82876235?v=4" width="50px">
   <a href="https://github.com/yblee0816"><img src="https://avatars.githubusercontent.com/u/64089784?v=4" width="50px">
