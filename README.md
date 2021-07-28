@@ -2,7 +2,7 @@
 
 [![View](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseungyup26&count_bg=%23FF0000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=View&edge_flat=true)](https://github.com/seungyup26)
 [![email](https://img.shields.io/badge/about-seungyup26%40gmail.com-blue)](https://github.com/seungyup26)
-[![Follow](https://img.shields.io/github/followers/SeungYup26?style=social)](https://github.com/seungyup26)
+[![Follow](https://img.shields.io/github/followers/SeungYup26?style=social)](https://github.com/SeungYup26?tab=followers)
 
 <img width="50%" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
