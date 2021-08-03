@@ -7,9 +7,9 @@
 <img width="50%" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 [![Cups](https://github-profile-trophy.vercel.app/?username=seungyup26&no-frame=true&no-bg=true&column=10&theme=onestar)](https://github.com/seungyup26)<br>
-
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=seungyup26&show_icons=true&hide_border=true&custom_title=SeungYup&bg_color=ffffff00&theme=tokyonight)](https://github.com/seungyup26)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungyup26&hide_border=true&custom_title=Languages&bg_color=ffffff00&theme=tokyonight)](https://github.com/seungyup26)<br>
+[![Github Graph](https://activity-graph.herokuapp.com/graph?username=seungyup26&theme=xcode&hide_border=true&bg_color=ffffff00&hide_title=true)](https://github.com/seungyup26)
 
 ## Friends
 <table>
