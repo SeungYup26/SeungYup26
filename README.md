@@ -1,4 +1,4 @@
-# Welecome to SeungYup26 Github
+## Welecome
 
 [![View](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseungyup26&count_bg=%23FF0000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=View&edge_flat=true)](https://github.com/seungyup26)
 [![email](https://img.shields.io/badge/about-seungyup26%40gmail.com-blue)](https://github.com/seungyup26)
@@ -10,7 +10,7 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=seungyup26&show_icons=true&hide_border=true&custom_title=SeungYup&bg_color=ffffff00&theme=tokyonight)](https://github.com/seungyup26)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungyup26&hide_border=true&custom_title=Languages&bg_color=ffffff00&theme=tokyonight)](https://github.com/seungyup26)<br>
 
-## Friends
+## Github Friends
 <table>
   <a href="https://github.com/Claude-Agnes17"><img src="https://avatars.githubusercontent.com/u/82876235?v=4" width="50px">
   <a href="https://github.com/yblee0816"><img src="https://avatars.githubusercontent.com/u/64089784?v=4" width="50px">
