@@ -13,7 +13,12 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungyup26&hide_border=true&custom_title=Languages&bg_color=ffffff00&theme=tokyonight)](https://github.com/seungyup26)<br>
 </h2>
 
-<h2 align="center"> Github Friends</h2>
+<h2 align="center"> Working </h2>
+<p align="center">
+  :part_alternation_mark: I working on SyOKet :part_alternation_mark:
+</h2><br>
+
+<h2 align="center"> Github Friends </h2>
 <h2 align="center">
   <table>
     <a href="https://github.com/Claude-Agnes17"><img src="https://avatars.githubusercontent.com/u/82876235?v=4" width="50px">
