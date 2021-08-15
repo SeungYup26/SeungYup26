@@ -14,8 +14,8 @@
 </h2>
 
 <h2 align="center"> Working </h2>
-<p align="center">
-  :part_alternation_mark: I working on SyOKet :part_alternation_mark:
+<h3 align="center">
+  :part_alternation_mark: i working on SyOKet :part_alternation_mark:
 </h2><br>
 
 <h2 align="center"> Github Friends </h2>
