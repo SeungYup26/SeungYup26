@@ -5,8 +5,7 @@
   <img src="https://img.shields.io/badge/CSharp-8b00ff?style=flat-square&logo=csharp&logoColor=white"/></a><br>
 
   <img alig src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseungyup26&count_bg=%23FF0000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=View&edge_flat=true">
-  <img alig src="https://img.shields.io/badge/about-seungyup26%40gmail.com-blue">
-  <img alig src="https://img.shields.io/github/followers/SeungYup26?style=social"><br><br>
+  <img alig src="https://img.shields.io/github/followers/seungyup26?color=blue&style=flat-square"><br><br>
   <img alig src="https://github-profile-trophy.vercel.app/?username=seungyup26&no-frame=true&no-bg=true&column=7&theme=onestar">
 </h2>
 
