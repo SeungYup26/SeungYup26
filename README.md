@@ -12,7 +12,7 @@
 <!---------------------------------------------------------------->
 <!--------------------------- State ------------------------------>
 #### 🔭 I’m currently working on
-- SyOKet / (C++ Socket Library) / (Agusut 2021 ~)
+- SyOKet / (C++ Socket Library) / (Agusut 14, 2021 ~)
 - SyBotnet Upgrade / (Use SyOKet) / (Agusut 2021 ~)
 
 #### 🌱 I’m currently learning
