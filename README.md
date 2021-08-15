@@ -10,13 +10,6 @@
   <img alig src="https://github-profile-trophy.vercel.app/?username=seungyup26&no-frame=true&no-bg=true&column=7&theme=onestar">
 </h2>
 
-<h2 align="center"> Working </h2>
-<h3 align="center">
-  :part_alternation_mark: Leanning> Rust :part_alternation_mark: <br>
-  :part_alternation_mark: Making> SyOKet :part_alternation_mark: <br>
-  :part_alternation_mark: State> Sleepy  :part_alternation_mark: <br>
-</h2>
-
 <h2 align="center"> Github Friends </h2>
 <h2 align="center">
   <table>
