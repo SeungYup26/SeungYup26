@@ -8,9 +8,6 @@
   <img alig src="https://img.shields.io/badge/about-seungyup26%40gmail.com-blue">
   <img alig src="https://img.shields.io/github/followers/SeungYup26?style=social"><br><br>
   <img alig src="https://github-profile-trophy.vercel.app/?username=seungyup26&no-frame=true&no-bg=true&column=7&theme=onestar">
-
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=seungyup26&show_icons=true&hide_border=true&custom_title=SeungYup&bg_color=ffffff00&theme=tokyonight)](https://github.com/seungyup26)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungyup26&hide_border=true&custom_title=Languages&bg_color=ffffff00&theme=tokyonight)](https://github.com/seungyup26)<br>
 </h2>
 
 <h2 align="center"> Working </h2>
