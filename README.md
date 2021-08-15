@@ -17,7 +17,7 @@
 <h3 align="center">
   :part_alternation_mark: Making> SyOKet :part_alternation_mark: <br>
   :part_alternation_mark: Leanning> Rust :part_alternation_mark: <br>
-</h2><br>
+</h2>
 
 <h2 align="center"> Github Friends </h2>
 <h2 align="center">
