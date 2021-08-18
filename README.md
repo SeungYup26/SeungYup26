@@ -13,7 +13,7 @@
 <!---------------------------------------------------------------->
 <!--------------------------- State ------------------------------>
 #### :telescope: I’m currently working on
-- SyOKet / (C++ Socket Library) / (Agusut 14, 2021 ~)
+- SyOKet / (C++ Socket Library) / (Agusut 14, 2021 ~ Agusut 17, 2021)
 - SyBotnet Upgrade / (Use SyOKet) / (Agusut 16, 2021 ~)
 
 #### :palm_tree: I’m currently learning
