@@ -12,16 +12,26 @@
 [![Trophy](https://github-profile-trophy.vercel.app/?username=seungyup26&no-frame=true&no-bg=true&column=7&theme=onestar)](https://github.com/seungyup26)
 <!---------------------------------------------------------------->
 <!--------------------------- State ------------------------------>
-#### 🔭 I’m currently working on
+#### :telescope: I’m currently working on
 - SyOKet / (C++ Socket Library) / (Agusut 14, 2021 ~)
 - SyBotnet Upgrade / (Use SyOKet) / (Agusut 16, 2021 ~)
 
-#### 🌱 I’m currently learning
+#### :palm_tree: I’m currently learning
 - Rust
 
-#### 👯 I’m looking to collaborate on
+#### :two_men_holding_hands: I’m looking to collaborate on
 - SH Crypter / (File Crypter) / (Not for Bypass Antivirus) / (with. <a href="https://github.com/dltlgn071105">SH</a>)
 - The King of Gockgang-E Remake / (Unity engine (C#)) / (with. <a href="https://github.com/LapisChung">LapisChung</a>, other ...)
+
+#### :speech_balloon: My commit message guide
+  - Tag
+    - [new] : upload new files
+    - [add] : add new code/text to files
+    - [rename] : change file name
+    - [remove] : remove file/code
+    - [edit] : edit code/text
+    - [fix] : fix bug/typo
+  
 <!---------------------------------------------------------------->
 <!--------------------------- Friends ---------------------------->
 
