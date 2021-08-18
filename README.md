@@ -21,8 +21,8 @@
 - The King of Gockgang-E Remake / (Unity engine (C#)) / (with. <a href="https://github.com/LapisChung">LapisChung</a>, other ...)
 
 #### :memo: My best project
-- SyOKet / (C++ Socket Library) / (Agusut 14, 2021 ~ Agusut 17, 2021)
-- MinuLazer / (C# Dos Attack Tool) / (July 21, 2021 ~ July 23, 2021)
+- SyOKet / (C++ Socket Library) / (Agusut 14, 2021 ~ Agusut 17, 2021(First release))
+- MinuLazer / (C# Dos Attack Tool) / (July 21, 2021 ~ July 23, 2021(First release))
 #### :palm_tree: I’m currently learning
 - Rust
 <!---------------------------------------------------------------->
