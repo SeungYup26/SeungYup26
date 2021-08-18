@@ -16,12 +16,12 @@
 - SyOKet / (C++ Socket Library) / (Agusut 14, 2021 ~ Agusut 17, 2021)
 - SyBotnet Upgrade / (Use SyOKet) / (Agusut 16, 2021 ~)
 
-#### :palm_tree: I’m currently learning
-- Rust
-
 #### :two_men_holding_hands: I’m looking to collaborate on
 - SH Crypter / (File Crypter) / (Not for Bypass Antivirus) / (with. <a href="https://github.com/dltlgn071105">SH</a>)
 - The King of Gockgang-E Remake / (Unity engine (C#)) / (with. <a href="https://github.com/LapisChung">LapisChung</a>, other ...)
+
+#### :palm_tree: I’m currently learning
+- Rust
 
 #### :speech_balloon: My commit message guide
   - Tag
