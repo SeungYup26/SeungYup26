@@ -19,10 +19,12 @@
 #### :two_men_holding_hands: I’m looking to collaborate on
 - SH Crypter / (File Crypter) / (Not for Bypass Antivirus) / (with. <a href="https://github.com/dltlgn071105">SH</a>)
 - The King of Gockgang-E Remake / (Unity engine (C#)) / (with. <a href="https://github.com/LapisChung">LapisChung</a>, other ...)
+- Web stresser / (Backend) / (Python) / (with. <a href="https://github.com/JIHOON0728">LC</a>
 
 #### :memo: My best project
-- SyOKet / (C++ Socket Library) / (Agusut 14, 2021 ~ Agusut 17, 2021(First release))
-- MinuLazer / (C# Dos Attack Tool) / (July 21, 2021 ~ July 23, 2021(First release))
+- SyOKet / (C++ Socket Library)
+- MinuLazer / (C# Dos Attack Tool)
+- 
 #### :palm_tree: I’m currently learning
 - Rust
 <!---------------------------------------------------------------->
