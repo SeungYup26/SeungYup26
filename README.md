@@ -13,10 +13,10 @@
 [![Trophy](https://github-profile-trophy.vercel.app/?username=seungyup26&no-frame=true&no-bg=true&column=7&theme=onestar)](https://github.com/seungyup26)
 <!---------------------------------------------------------------->
 <!--------------------------- State ------------------------------>
+<img src="https://github.com/SeungYup26/SeungYup26/blob/main/github-icon.png" align="right"/>
+
 #### :telescope: I’m currently working on
 - SyBotnet Upgrade / (C++) / (Use SyOKet) /
-
-<img src="https://github.com/SeungYup26/SeungYup26/blob/main/github-icon.png" align="right"/>
 
 #### :two_men_holding_hands: I’m looking to collaborate on
 - SH Crypter / (File Crypter) / (Not for Bypass Antivirus) / (with. <a href="https://github.com/dltlgn071105">SH</a>)
