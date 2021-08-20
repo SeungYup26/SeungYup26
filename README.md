@@ -21,6 +21,8 @@
 - The King of Gockgang-E Remake / (Unity engine (C#)) / (with. <a href="https://github.com/LapisChung">LapisChung</a>, other ...)
 - Web stresser / (Backend) / (Python) / (with. <a href="https://github.com/JIHOON0728">LC</a>)
 
+<img src="https://github.com/SeungYup26/SeungYup26/blob/main/github-icon.png" align="right"/>
+
 #### :memo: My best project
 - SyOKet / (C++ Socket Library)
 - MinuLazer / (C# Dos Attack Tool)
