@@ -17,6 +17,7 @@
 
 #### :telescope: I’m currently working on
 - SyBotnet Upgrade / (C++) / (Use SyOKet) /
+- DyDosnet Upgrade / (C++) / (Use SyOKet) /
 
 #### :two_men_holding_hands: I’m looking to collaborate on
 - SH Crypter / (File Crypter) / (Not for Bypass Antivirus) / (with. <a href="https://github.com/dltlgn071105">SH</a>)
