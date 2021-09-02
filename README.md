@@ -16,7 +16,6 @@
 <img src="https://github.com/SeungYup26/SeungYup26/blob/main/github-icon.png" align="right"/>
 
 #### :telescope: I’m currently working on
-- SyBotnet Upgrade / (C++) / (Use SyOKet) /
 - SyDosnet Upgrade / (C++) / (Use SyOKet) /
 
 #### :two_men_holding_hands: I’m looking to collaborate on
