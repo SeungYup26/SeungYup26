@@ -38,6 +38,7 @@
     - [add] : add new code/text to files
     - [rename] : change file name
     - [remove] : remove file/code
+    - [change] : change file/other
     - [edit] : edit code/text
     - [fix] : fix bug/typo
   
