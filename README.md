@@ -46,7 +46,7 @@
 <!--------------------------- Friends ---------------------------->
 
 ### Github Friends
-<a href="https://github.com/Claude-Agnes17"><img src="https://avatars.githubusercontent.com/u/82876235?v=4" width="50px">
+<a href="https://github.com/Claude-Agnes17"><img src="https://avatars.githubusercontent.com/u/82876235?v=4" width="50">
 <a href="https://github.com/yblee0816"><img src="https://avatars.githubusercontent.com/u/64089784?v=4" width="50px">
 <a href="https://github.com/jokk6703"><img src="https://avatars.githubusercontent.com/u/38997874?v=4" width="50px">
 <a href="https://github.com/Yellowstrawberrys"><img src="https://avatars.githubusercontent.com/u/77413533?v=4" width="50px">
@@ -56,5 +56,6 @@
 <a href="https://github.com/Marshal0129"><img src="https://avatars.githubusercontent.com/u/87575796?v=4" width="50px">
 <a href="https://github.com/JIHOON0728"><img src="https://avatars.githubusercontent.com/u/88192370?v=4" width="50px">
 <a href="https://github.com/SeolMJ"><img src="https://avatars.githubusercontent.com/u/85064559?v=4" width="50px">
+<a href="https://github.com/CustomNPC"><img src="https://avatars.githubusercontent.com/u/67010072?v=4" width="50px">
   
 <!---------------------------------------------------------------->
