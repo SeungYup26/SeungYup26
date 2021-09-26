@@ -23,7 +23,7 @@
 - Web stresser / (Backend) / (Python) / (with. <a href="https://github.com/JIHOON0728">LC</a>)
 
 #### :memo: My best project
-- SyOKet / (C++ Socket Library)
+- SyBotnet  / (C++ Botnet)
 - MinuLazer / (C# Dos Attack Tool)
 
 #### :palm_tree: I’m currently learning
