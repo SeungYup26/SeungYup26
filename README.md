@@ -40,6 +40,7 @@
     - [rename] : change file name
     - [remove] : remove file/code
     - [change] : change file/other
+    - [move] : change file path
     - [edit] : edit code/text
     - [fix] : fix bug/typo
   
