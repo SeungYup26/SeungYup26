@@ -28,8 +28,6 @@
 
 #### :palm_tree: I’m currently learning
 - Rust
-- ASP .NET
-- Php
 - WinApi Programming
 <!---------------------------------------------------------------->
 <!----------------------- Commit Message ------------------------->
