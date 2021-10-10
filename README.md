@@ -33,7 +33,6 @@
 <!----------------------- Commit Message ------------------------->
 
 #### :speech_balloon: My commit message guide
-  - Tag
     - [new] : upload new files
     - [add] : add new code/text to files
     - [rename] : change file name
