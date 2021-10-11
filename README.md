@@ -29,6 +29,8 @@
 #### :palm_tree: I’m currently learning
 - Rust
 - WinApi Programming
+- Reverse Engineering
+
 <!---------------------------------------------------------------->
 <!----------------------- Commit Message ------------------------->
 
