@@ -18,7 +18,7 @@
 - Simple ARPSpoofing Tool / (Linux)
 - Syript / (Crypter)
 #### :two_men_holding_hands: I’m looking to collaborate on
-- SH Crypter / (File Crypter) / (Not for Bypass Antivirus) / (with. <a href="https://github.com/dltlgn071105">SH</a>)
+- SH Crypter / (File Crypter) / (C#) / (Not for Bypass Antivirus) / (with. <a href="https://github.com/dltlgn071105">SH</a>)
 - The King of Gockgang-E Remake / (Unity engine (C#)) / (with. <a href="https://github.com/LapisChung">LapisChung</a>, other ...)
 - Web stresser / (Backend) / (Python) / (with. <a href="https://github.com/JIHOON0728">LC</a>)
 
