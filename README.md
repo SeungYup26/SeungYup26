@@ -1,4 +1,4 @@
-### SeungYup - @SeungYup26
+### Github @SeungYup26
 👋 Welcome to my Github. Follow me now !
 
 <!--------------------------- Profile ---------------------------->
