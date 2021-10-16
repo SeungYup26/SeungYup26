@@ -15,7 +15,7 @@
 <!--------------------------- State ----------------------------->
 
 #### :telescope: I’m currently working on
-- SyPing / (Ping)
+- SyPing / (Send Ping)
 - Simple ARPSpoofing Tool / (Linux)
 - Syript / (Crypter)
 
