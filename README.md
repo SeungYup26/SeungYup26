@@ -15,12 +15,12 @@
 <!---------------------------------------------------------------->
 <!--------------------------- State ----------------------------->
 
-#### :telescope: I’m currently working on
+#### :telescope: Working
 - SyPing / (Send Ping)
 - Simple ARPSpoofing Tool / (Linux)
 - Syript / (Crypter)
 
-#### :two_men_holding_hands: I’m looking to collaborate on
+#### :two_men_holding_hands: Team Project
 - SH Crypter / (File Crypter) / (C#) / (Not for Bypass Antivirus) / (with. <a href="https://github.com/dltlgn071105">SH</a>)
 - The King of Gockgang-E Remake / (Unity engine (C#)) / (with. <a href="https://github.com/LapisChung">LapisChung</a>, other ...)
 - Web stresser / (Backend) / (Python) / (with. <a href="https://github.com/JIHOON0728">LC</a>)
@@ -29,7 +29,7 @@
 - SyBotnet  / (C++ Botnet)
 - MinuLazer / (C# Dos Attack Tool)
 
-#### :palm_tree: I’m currently learning
+#### :palm_tree: Learning
 - Rust
 - WinApi Programming
 - Reverse Engineering
