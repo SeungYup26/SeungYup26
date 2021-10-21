@@ -23,7 +23,6 @@
 #### :two_men_holding_hands: Team Project
 - SH Crypter / (File Crypter) / (C#) / (Not for Bypass Antivirus) / (with. <a href="https://github.com/dltlgn071105">SH</a>)
 - The King of Gockgang-E Remake / (Unity engine (C#)) / (with. <a href="https://github.com/LapisChung">LapisChung</a>, other ...)
-- Web stresser / (Backend) / (Python) / (with. <a href="https://github.com/JIHOON0728">LC</a>)
 
 #### :memo: My best project
 - SyBotnet  / (C++ Botnet)
