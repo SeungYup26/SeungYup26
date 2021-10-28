@@ -16,7 +16,7 @@
 <!--------------------------- State ----------------------------->
 
 #### :telescope: Working
-- SyPing / (Send Ping)
+- SyPing / (Ping check)
 - Simple ARPSpoofing Tool / (Linux)
 - Syript / (Crypter)
 
