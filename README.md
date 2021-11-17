@@ -14,25 +14,6 @@
 [![Trophy](https://github-profile-trophy.vercel.app/?username=seungyup26&no-frame=true&no-bg=true&column=7&theme=onestar)](https://github.com/seungyup26)
 <!---------------------------------------------------------------->
 <!--------------------------- State ----------------------------->
-
-#### :telescope: Working
-- SyPing / (Ping check)
-- Simple ARPSpoofing Tool / (Linux)
-- Syript / (Crypter)
-
-#### :two_men_holding_hands: Team Project
-- SH Crypter / (File Crypter) / (C#) / (Not for Bypass Antivirus) / (with. <a href="https://github.com/dltlgn071105">SH</a>)
-- The King of Gockgang-E Remake / (Unity engine (C#)) / (with. <a href="https://github.com/LapisChung">LapisChung</a>, other ...)
-
-#### :memo: My best project
-- SyBotnet  / (C++ Botnet)
-- MinuLazer / (C# Dos Attack Tool)
-
-#### :palm_tree: Learning
-- Rust
-- WinApi Programming
-- Reverse Engineering
-
 <!---------------------------------------------------------------->
 <!----------------------- Commit Message ------------------------->
 
