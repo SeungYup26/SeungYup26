@@ -10,24 +10,11 @@
 [![Cpp](https://img.shields.io/badge/Cpp-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://github.com/search?l=C%2B%2B&q=user%3ASeungYup26&type=Repositories)
 [![CSharp](https://img.shields.io/badge/CSharp-8b00ff?style=flat-square&logo=csharp&logoColor=white)](https://github.com/search?l=C%23&q=user%3ASeungYup26&type=Repositories) </a>
 <!---------------------------------------------------------------->
+
 <!--------------------------- Trophy ----------------------------->
 [![Trophy](https://github-profile-trophy.vercel.app/?username=seungyup26&no-frame=true&no-bg=true&column=7&theme=onestar)](https://github.com/seungyup26)
 <!---------------------------------------------------------------->
-<!--------------------------- State ----------------------------->
-<!---------------------------------------------------------------->
-<!----------------------- Commit Message ------------------------->
 
-#### :speech_balloon: My commit message style
-    - [new] : upload new files
-    - [add] : add new code/text to files
-    - [rename] : change file name
-    - [remove] : remove file/code
-    - [change] : change file/other
-    - [move] : change file path
-    - [edit] : edit code/text
-    - [fix] : fix bug/typo
-  
-<!---------------------------------------------------------------->
 <!--------------------------- Friends ---------------------------->
 
 ### Github Friends
