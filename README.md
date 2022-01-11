@@ -4,7 +4,7 @@
 <!--------------------------- Profile ---------------------------->
 [![View](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseungyup26&count_bg=%23FF0000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/seungyup26)
 [![Followers](https://img.shields.io/github/followers/seungyup26?color=blue&style=flat-square)](https://github.com/SeungYup26?tab=followers)
-[![Email](https://img.shields.io/badge/About-seungyup26%40gmail.com-FF0000)](https://github.com/seungyup26)
+[![Telegram](https://img.shields.io/badge/Telegram-@SeungYup26-blue)](https://t.me/SeungYup26)
 
 [![Cpp](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)](https://github.com/search?l=C%2B%2B&q=user%3ASeungYup26&type=Repositories)
 [![Cpp](https://img.shields.io/badge/Cpp-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://github.com/search?l=C%2B%2B&q=user%3ASeungYup26&type=Repositories)
