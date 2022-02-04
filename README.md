@@ -8,7 +8,8 @@
 
 [![Cpp](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)](https://github.com/search?l=C%2B%2B&q=user%3ASeungYup26&type=Repositories)
 [![Cpp](https://img.shields.io/badge/Cpp-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://github.com/search?l=C%2B%2B&q=user%3ASeungYup26&type=Repositories)
-[![CSharp](https://img.shields.io/badge/CSharp-8b00ff?style=flat-square&logo=csharp&logoColor=white)](https://github.com/search?l=C%23&q=user%3ASeungYup26&type=Repositories) </a>
+[![CSharp](https://img.shields.io/badge/CSharp-8b00ff?style=flat-square&logo=csharp&logoColor=white)](https://github.com/search?l=C%23&q=user%3ASeungYup26&type=Repositories)
+[![Python](https://img.shields.io/badge/Python-white?style=flat-square&logo=python&logoColor=yellow)](https://github.com/search?l=C%23&q=user%3ASeungYup26&type=Repositories)
 <!---------------------------------------------------------------->
 
 <!--------------------------- Trophy ----------------------------->
