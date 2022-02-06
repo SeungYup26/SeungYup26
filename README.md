@@ -24,7 +24,6 @@
 <a href="https://github.com/jokk6703"><img src="https://avatars.githubusercontent.com/u/38997874?v=4" width="50px">
 <a href="https://github.com/Yellowstrawberrys"><img src="https://avatars.githubusercontent.com/u/77413533?v=4" width="50px">
 <a href="https://github.com/KiRist-code"><img src="https://avatars.githubusercontent.com/u/37296174?v=4" width="50px">
-<a href="https://github.com/dltlgn071105"><img src="https://avatars.githubusercontent.com/u/79982147?v=4" width="50px">
 <a href="https://github.com/jym0404"><img src="https://avatars.githubusercontent.com/u/49983304?v=4" width="50px">
 <a href="https://github.com/Marshal0001"><img src="https://avatars.githubusercontent.com/u/87575796?v=4" width="50px">
 <a href="https://github.com/JIHOON0728"><img src="https://avatars.githubusercontent.com/u/88192370?v=4" width="50px">
@@ -33,5 +32,6 @@
 <a href="https://github.com/Paranoid-Dev"><img src="https://avatars.githubusercontent.com/u/62641568?v=4" width="50px">
 <a href="https://github.com/sihnhee09"><img src="https://avatars.githubusercontent.com/u/96600769?v=4" width="50px">
 <a href="https://github.com/chanwo12"><img src="https://avatars.githubusercontent.com/u/98022057?v=4" width="50px">
+<a href="https://github.com/Noreen-py"><img src="https://avatars.githubusercontent.com/u/79363792?v=4" width="50px">
 
 <!---------------------------------------------------------------->
