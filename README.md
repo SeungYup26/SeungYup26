@@ -24,7 +24,6 @@
 <a href="https://github.com/jokk6703"><img src="https://avatars.githubusercontent.com/u/38997874?v=4" width="50px">
 <a href="https://github.com/Yellowstrawberrys"><img src="https://avatars.githubusercontent.com/u/77413533?v=4" width="50px">
 <a href="https://github.com/KiRist-code"><img src="https://avatars.githubusercontent.com/u/37296174?v=4" width="50px">
-<a href="https://github.com/jym0404"><img src="https://avatars.githubusercontent.com/u/49983304?v=4" width="50px">
 <a href="https://github.com/Marshal0001"><img src="https://avatars.githubusercontent.com/u/87575796?v=4" width="50px">
 <a href="https://github.com/JIHOON0728"><img src="https://avatars.githubusercontent.com/u/88192370?v=4" width="50px">
 <a href="https://github.com/SeolMJ"><img src="https://avatars.githubusercontent.com/u/85064559?v=4" width="50px">
